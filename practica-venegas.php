@@ -33,4 +33,6 @@ $saludar = saludar('Daniel');
 
 echo $suma;
 echo $saludar;
+
+echo 'Git y GitHub funcionan';
 ?>
