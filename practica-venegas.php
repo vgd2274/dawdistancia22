@@ -1,4 +1,7 @@
 <?php
+
+echo 'GitHub funciona!';
+
 /*
  * @author Daniel Venegas Garcia
  * @version 1.0
@@ -33,6 +36,4 @@ $saludar = saludar('Daniel');
 
 echo $suma;
 echo $saludar;
-
-echo 'Git y GitHub funcionan';
 ?>
